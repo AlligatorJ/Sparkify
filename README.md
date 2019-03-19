@@ -1,2 +1,2 @@
-# new-rep
-Udacity Data Science Project
+# Sparkify
+Prediticting churn with Spark
