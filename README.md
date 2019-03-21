@@ -1,3 +1,4 @@
+
 # Sparkify
 Predicting churn with Spark
 
@@ -28,8 +29,11 @@ For many businesses it is crucial crucial to predict if a user it is likely to q
 This project uses log data of a fictional music streaming service called Sparkify. The software Spark is used to process the data and to demonstrate how to predict churn. The Project contains the following steps:
 
 1.Exploratory Data Analysis
+
 2. Extract and engineering of features for the model
+
 3. Building and of a machine learning model
+
 4. Evaluation and refinement of the model
 
 The project is conducted by using PySpark and deployed on the cloud platform IBM Watson.
